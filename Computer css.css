@@ -1,0 +1,48 @@
+body {
+    background-image: url(ASA\ BIG\ WALLPAPER.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+body {
+    font-family: "Comic Neue", cursive;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+
+img  {
+    float: left;
+  }
+
+.div1 {
+    background-color: white;
+    
+}
+
+
+h2 {
+    background-color: white;
+}
+
+p.one {
+      background-image: url(maxresdefault.jpg);
+       height: 1100px;
+       background-repeat: no-repeat;
+}
+
+#links { 
+    margin: 0 auto; 
+    width: 3000px; 
+    font-size:70px;
+    clear: both; 
+    display: block;
+  }
+
+.div2 {
+    background-image: url(1500x500.jpg);
+    height: 500px;
+    width: 1500px;
+}
